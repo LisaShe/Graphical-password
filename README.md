@@ -65,4 +65,4 @@
 <br>Пример реализации
 <br>В качестве дополнения была разработана программа, реализующая данный механизм. Программа доступна по адресу в Интернете: http://sites.google.com/site/coolprogramms/arhiv-besplatnyh-programm/GPassword.rar
 <h1><br>Литература</h1>
-<br>Динамический пароль http://habrahabr.ru/post/136580/
+<br>Динамический пароль http://habr.com/post/136580/
